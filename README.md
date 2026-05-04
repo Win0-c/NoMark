@@ -70,6 +70,3 @@ LANGUAGE: Python
 
 For personal use only. Downloading TikTok content may violate [TikTok's Terms of Service](https://www.tiktok.com/legal/terms-of-service). Don't redistribute or monetize content you download with this tool.
 ````
-````
-
-Hit the copy button in the top right of that block, paste it directly into your `README.md` file. The `\``` ` are just escapes so it renders here — when you paste into the file they'll show as normal backticks.
