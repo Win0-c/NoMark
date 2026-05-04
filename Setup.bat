@@ -1,4 +1,5 @@
 @echo off
+title Setting Up NoMark
 echo Installing NoMark dependencies...
 timeout 1 >nul
 cls
