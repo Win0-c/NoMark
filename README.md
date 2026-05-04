@@ -69,4 +69,3 @@ LANGUAGE: Python
 ## Legal
 
 For personal use only. Downloading TikTok content may violate [TikTok's Terms of Service](https://www.tiktok.com/legal/terms-of-service). Don't redistribute or monetize content you download with this tool.
-````
